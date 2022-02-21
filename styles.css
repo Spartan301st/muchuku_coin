@@ -115,7 +115,6 @@ body {
   color: var(--white);
   width: 100vw;
   min-height: 100vh;
-  overflow-x: hidden;
 }
 
 h1,
